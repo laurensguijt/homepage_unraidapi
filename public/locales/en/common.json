@@ -1077,6 +1077,20 @@
         "used": "Used",
         "total": "Total"
     },
+    "unraid": {
+        "uptime": "Uptime",
+        "net_rx": "Down",
+        "net_tx": "Up",
+        "parity": "Parity",
+        "disk1": "Disk 1",
+        "disk2": "Disk 2",
+        "disk3": "Disk 3",
+        "disk4": "Disk 4",
+        "disk5": "Disk 5",
+        "disk6": "Disk 6",
+        "disk7": "Disk 7",
+        "disk8": "Disk 8"
+    },
     "wallos": {
         "activeSubscriptions": "Subscriptions",
         "thisMonthlyCost": "This Month",

@@ -1,0 +1,22 @@
+{
+  "uptime": 86400,
+  "network": {
+    "rx": 1234567,
+    "tx": 7654321
+  },
+  "parity": {
+    "status": "valid"
+  },
+  "disks": {
+    "disk1": {
+      "size": 1000000000,
+      "used": 500000000,
+      "temperature": 32
+    },
+    "disk2": {
+      "size": 2000000000,
+      "used": 1500000000,
+      "temperature": 34
+    }
+  }
+}
