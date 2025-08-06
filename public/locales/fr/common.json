@@ -1083,5 +1083,10 @@
         "nextMonthlyCost": "Mois prochain",
         "previousMonthlyCost": "Mois précédent",
         "nextRenewingSubscription": "Prochain paiement"
+    },
+    "unraid": {
+        "cpu": "CPU",
+        "memory": "Memory",
+        "disk": "Disk"
     }
 }
