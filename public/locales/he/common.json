@@ -1083,5 +1083,10 @@
         "nextMonthlyCost": "חודש הבא",
         "previousMonthlyCost": "חודש קודם",
         "nextRenewingSubscription": "תשלום הבא"
+    },
+    "unraid": {
+        "cpu": "CPU",
+        "memory": "Memory",
+        "disk": "Disk"
     }
 }

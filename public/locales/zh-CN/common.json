@@ -746,5 +746,10 @@
         "physicalRelease": "Physical release",
         "inCinemas": "In cinemas",
         "digitalRelease": "Digital release"
+    },
+    "unraid": {
+        "cpu": "CPU",
+        "memory": "Memory",
+        "disk": "Disk"
     }
 }

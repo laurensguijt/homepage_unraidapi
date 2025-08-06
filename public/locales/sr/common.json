@@ -1083,5 +1083,10 @@
         "nextMonthlyCost": "Следећи месец",
         "previousMonthlyCost": "Претходни месец",
         "nextRenewingSubscription": "Следећа уплата"
+    },
+    "unraid": {
+        "cpu": "CPU",
+        "memory": "Memory",
+        "disk": "Disk"
     }
 }

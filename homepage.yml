@@ -1,0 +1,8 @@
+- Services:
+    - Unraid:
+        icon: unraid.png
+        href: http://unraid.host.or.ip
+        widget:
+          type: unraid
+          url: http://unraid.host.or.ip
+          key: your_api_key
